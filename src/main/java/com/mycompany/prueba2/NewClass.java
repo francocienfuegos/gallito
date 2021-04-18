@@ -14,7 +14,7 @@ public class NewClass {
     {
         for(int i = 0; i <= 100; i++)
         {
-            System.out.print("el resultasdo es "+ i + " = " + (100*i) + " ola k ace"+ "\n");
+            System.out.print("el resultasdo es "+ i + " = " + (100*i) + "versionando"+ "\n");
         }
     }
 }
